@@ -51,11 +51,11 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|------|
-| [SKN23 1차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-1st-2TEAM) | 현대 자동차 FAQ 챗봇 · Streamlit |  |
-| [SKN23 2차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-2nd-1TEAM) | Steam 리뷰 기반 게임 이탈 예측 · ML |Python / Pandas / Numpy / scikit-learn / Matplotlib|
-| [SKN23 3차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-3rd-2TEAM) | LLM 기반 서비스 개발 |Python / OpenAI API / LangChain / LanGraph / PostgreSQL(pgvector)|
-| [SKN23 4차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-4th-2TEAM) | 멀티모달 AI 서비스 개발 |Python / OpenAI API / LangChain / LanGraph / Django / PostgreSQL(pgvector)|
-| [SKN23 최종 프로젝트](https://github.com/minjeong-kim-dev/SKN23-FINAL-2Team) | 파이널 프로젝트 |  |
+| [SKN23 1차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-1st-2TEAM) | 지역별 EV 충전소·정비소·FAQ 통합 서비스 | Python / MySQL / Streamlit |
+| [SKN23 2차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-2nd-1TEAM) | Steam 상위 50위 게임 장르별 이탈 예측 ML 모델 | Python / Pandas / Numpy / scikit-learn / Matplotlib |
+| [SKN23 3차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-3rd-2TEAM) | WELD·BOT - 용접 전문 LLM 챗봇 서비스 | Python / OpenAI API / LangChain / LangGraph / PostgreSQL(pgvector) / Streamlit |
+| [SKN23 4차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-4th-2TEAM) | AI 기반 용접 로봇 관제 및 유지보수 시스템 | Python / OpenAI API / LangChain / LangGraph / Django / PostgreSQL(pgvector) |
+| [SKN23 최종 프로젝트](https://github.com/minjeong-kim-dev/SKN23-FINAL-2Team) | Cadence AI - Enterprise CAD 설계 자산 AI 자동화 플랫폼 | Python / OpenAI API / LangChain / LangGraph / FastAPI / React |
 
 <br>
 
@@ -71,5 +71,5 @@
 |Phone|010-4165-9848|
 |Email|[![Gmail](https://img.shields.io/badge/min970401@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:min970401@gmail.com)|
 |GitHub|[![GitHub](https://img.shields.io/badge/minjeong--kim--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minjeong-kim-dev)|
-|Blog|[![Naver Blog](https://img.shields.io/badge/blog.naver.com/minmin--987-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/minmin-987)|
+|Blog|[![Naver Blog](https://img.shields.io/badge/blog.naver.com/minmin--978-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/minmin-978)|
 
