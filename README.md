@@ -66,8 +66,8 @@
 
 ## 📫 Contact
 
-| - | 설명 |
-|----------|------|
+| 구분 | 정보 |
+|------|------|
 |Phone|010-4165-9848|
 |Email|[![Gmail](https://img.shields.io/badge/min970401@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:min970401@gmail.com)|
 |GitHub|[![GitHub](https://img.shields.io/badge/minjeong--kim--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minjeong-kim-dev)|
