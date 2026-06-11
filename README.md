@@ -26,12 +26,16 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL(pgvector)](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend / Infra**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**DevOps**  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+
+
 
 <br>
 
@@ -39,28 +43,33 @@
 
 ### 개인 프로젝트
 
-| 프로젝트 | 설명 | 기술 |
+| 프로젝트 | 설명 | 기술 스택 |
 |----------|------|------|
-| [HR Assistant RAG](https://github.com/minjeong-kim-dev/project01) | 기업 인사·행정 규정 문서 기반 질의응답 AI | LangGraph · RAG · FastAPI · ChromaDB |
+|  |  |  |
 
 ### 팀 프로젝트
 
-| 프로젝트 | 설명 |
-|----------|------|
-| [SKN23 1차](https://github.com/minjeong-kim-dev/SKN23-1st-2TEAM) | 현대 자동차 FAQ 챗봇 · Streamlit |
-| [SKN23 2차](https://github.com/minjeong-kim-dev/SKN23-2nd-1TEAM) | Steam 리뷰 기반 게임 이탈 예측 · ML |
-| [SKN23 3차](https://github.com/minjeong-kim-dev/SKN23-3rd-2TEAM) | LLM 기반 서비스 개발 |
-| [SKN23 4차](https://github.com/minjeong-kim-dev/SKN23-4th-2TEAM) | 멀티모달 AI 서비스 개발 |
-| [SKN23 파이널](https://github.com/minjeong-kim-dev/SKN23-FINAL-2Team) | 파이널 프로젝트 |
+| 프로젝트 | 설명 | 기술 스택 |
+|----------|------|------|
+| [SKN23 1차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-1st-2TEAM) | 현대 자동차 FAQ 챗봇 · Streamlit |  |
+| [SKN23 2차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-2nd-1TEAM) | Steam 리뷰 기반 게임 이탈 예측 · ML |Python / Pandas / Numpy / scikit-learn / Matplotlib|
+| [SKN23 3차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-3rd-2TEAM) | LLM 기반 서비스 개발 |Python / OpenAI API / LangChain / LanGraph / PostgreSQL(pgvector)|
+| [SKN23 4차 단위 프로젝트](https://github.com/minjeong-kim-dev/SKN23-4th-2TEAM) | 멀티모달 AI 서비스 개발 |Python / OpenAI API / LangChain / LanGraph / Django / PostgreSQL(pgvector)|
+| [SKN23 최종 프로젝트](https://github.com/minjeong-kim-dev/SKN23-FINAL-2Team) | 파이널 프로젝트 |  |
 
 <br>
 
-## 📊 GitHub Stats
+## 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minjeong-kim-dev&show_icons=true&theme=default&hide_border=true)
 
 <br>
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/min970401@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:min970401@gmail.com)
+| - | 설명 |
+|----------|------|
+|Phone||
+|Email|[![Gmail](https://img.shields.io/badge/min970401@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:min970401@gmail.com)|
+|GitHub|[![GitHub](https://img.shields.io/badge/minjeong--kim--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minjeong-kim-dev)|
+|Blog|[![Naver Blog](https://img.shields.io/badge/blog.naver.com/minmin--987-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/minmin-987)|
+
