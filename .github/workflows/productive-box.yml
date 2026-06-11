@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: techinpark/productive-box@master
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 06ba56d21d06d0f379e72055835b4d2d
