@@ -1,0 +1,15 @@
+name: Update productive-box
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 매일 자정 자동 실행
+  workflow_dispatch:       # 수동 실행도 가능
+
+jobs:
+  update-productive-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: techinpark/productive-box@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 06ba56d21d06d0f379e72055835b4d2d
