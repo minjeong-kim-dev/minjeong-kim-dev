@@ -68,7 +68,7 @@
 
 | - | 설명 |
 |----------|------|
-|Phone||
+|Phone|010-4165-9848|
 |Email|[![Gmail](https://img.shields.io/badge/min970401@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:min970401@gmail.com)|
 |GitHub|[![GitHub](https://img.shields.io/badge/minjeong--kim--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minjeong-kim-dev)|
 |Blog|[![Naver Blog](https://img.shields.io/badge/blog.naver.com/minmin--987-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/minmin-987)|
