@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minjeong-kim-dev&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minjeong-kim-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minjeong-kim-dev&theme=minimal&hide_border=true)
 
